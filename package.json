@@ -29,6 +29,11 @@
 				"label": "Andromeda",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Andromeda-color-theme.json"
+			},
+			{
+				"label": "Andromeda Italic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Andromeda-italic-color-theme.json"
 			}
 		]
 	}
