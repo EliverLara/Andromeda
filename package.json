@@ -1,40 +1,40 @@
 {
-	"name": "andromeda",
-	"displayName": "Andromeda",
-	"description": "Dark theme with a taste of the universe",
-	"version": "1.0.0",
-	"icon": "images/icon.png",
-	"galleryBanner": {
-		"color": "#23262E",
-		"theme": "dark"
-	},
-	"publisher": "EliverLara",
-	"author": {
-		"name": "ELiver Lara",
-		"url": "https://github.com/EliverLara",
-		"email": "eliverlara@gmail.com"
-	},
-	"repository": {
-		"url": "https://github.com/EliverLara/Andromeda"
-	},
-	"engines": {
-		"vscode": "^1.14.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Andromeda",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Andromeda-color-theme.json"
-			},
-			{
-				"label": "Andromeda Italic",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Andromeda-italic-color-theme.json"
-			}
-		]
-	}
+    "name": "andromeda",
+    "displayName": "Andromeda",
+    "description": "Dark theme with a taste of the universe",
+    "version": "1.1.0",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#23262E",
+        "theme": "dark"
+    },
+    "publisher": "EliverLara",
+    "author": {
+        "name": "ELiver Lara",
+        "url": "https://github.com/EliverLara",
+        "email": "eliverlara@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/EliverLara/Andromeda"
+    },
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Andromeda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Andromeda-color-theme.json"
+            },
+            {
+                "label": "Andromeda Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Andromeda-italic-color-theme.json"
+            }
+        ]
+    }
 }
