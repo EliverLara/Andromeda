@@ -161,10 +161,12 @@
             "name": "Comment color",
             "scope": [
                 "comment",
-                "markup.quote.markdown"
+                "markup.quote.markdown",
+                "meta.diff",
+                "meta.diff.header"
             ],
             "settings": {
-                "foreground": "#64566B"
+                "foreground": "#5f6167"
             }
         },
         {
@@ -191,7 +193,6 @@
                 "beginning.punctuation.definition.list.markdown",
                 "source.css entity.other.attribute-name.parent-selector",
                 "meta.structure.dictionary.json support.type.property-name"
-                
             ],
             "settings": {
                 "foreground": "#00e8c6"        
@@ -245,12 +246,8 @@
             "name": "Pink",
             "scope": [
                 "markup.heading",
-                
                 "variable.language.this.js",
                 "variable.language.special.self.python"
-                
-
-                
             ],
             "settings": {
                 "foreground": "#ff00aa"
@@ -266,7 +263,6 @@
                 "punctuation.section.embedded.begin.ruby",
                 "punctuation.definition.template-expression",
                 "entity.name.tag"
-                
             ],
             "settings": {
                 "foreground": "#f92672"
@@ -290,7 +286,8 @@
         {
             "name": "Blue",
             "scope": [
-                "string.regexp"
+                "string.regexp",
+                "markup.changed"
             ],
             "settings": {
                 "foreground": "#7cb7ff"
@@ -307,10 +304,8 @@
                 "source.css support.function",
                 "source.php support.function",
                 "support.function.magic.python",
-                "entity.other.attribute-name.id"
-                
-               
-                
+                "entity.other.attribute-name.id",
+                "markup.deleted"
             ],
             "settings": {
                 "foreground": "#ee5d43"
@@ -322,17 +317,14 @@
                 "string",
                 "text.html.php string",
                 "markup.inline.raw",
+                "markup.inserted",
                 "punctuation.definition.string",
                 "punctuation.definition.markdown",
                 "text.html meta.embedded source.js string",
                 "text.html.php punctuation.definition.string",
                 "text.html meta.embedded source.js punctuation.definition.string",
-
-
                 "text.html punctuation.definition.string",
                 "text.html string"
-              
-                
             ],
             "settings": {
                 "foreground": "#96E072"
