@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.1] - 2018-11-14
+
+- Update screenshot
+
 ## [1.2.0] - 2018-09-16
 
 ### Minor
