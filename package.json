@@ -39,7 +39,17 @@
                 "label": "Andromeda Colorizer",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Andromeda-colorizer.json"
+            },
+            {
+                "label": "Andromeda Colorizer Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Andromeda-colorizer-italic.json"
             }
         ]
+    },
+    "__metadata": {
+        "id": "98eb0f27-c79a-4ef5-b3ea-0554b885bfc5",
+        "publisherId": "2a5c8f8b-7e1b-46ee-aa0e-13ee5141f7a6",
+        "publisherDisplayName": "Eliver  Lara"
     }
 }
