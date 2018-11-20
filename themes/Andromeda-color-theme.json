@@ -4,7 +4,7 @@
     "colors": {
         "focusBorder": "#00e8c5b9",
         "foreground": "#D5CED9",
-        "widget.shadow": "#2e333f",
+        "widget.shadow": "#14151A",
         "selection.background": "#746f77",
         "errorForeground": "#FC644D",
 
@@ -146,7 +146,7 @@
         "pickerGroup.border": "#4F4355",
         "pickerGroup.foreground": "#746f77",
 
-        "debugToolBar.background": "#372F3C",
+        "debugToolBar.background": "#20232A",
 
         "walkThrough.embeddedEditorBackground": "#23262E"
     },
