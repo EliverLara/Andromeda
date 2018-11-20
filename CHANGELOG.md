@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.2.2] - 2018-11-20
+
+### Patch
+
+- Fix debug toolbar background color.
+
 ## [1.2.1] - 2018-11-14
 
 - Update screenshot
