@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.2.3] - 2018-12-19
+
+### Patch
+
+- Fix invisible comments in git diff view.
+
 ## [1.2.2] - 2018-11-20
 
 ### Patch
