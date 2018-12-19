@@ -89,12 +89,12 @@
 			"editorOverviewRuler.border": "#4F4355",
 			"editorError.foreground": "#FC644D",
 			"editorWarning.foreground": "#FF9F2E",
-			"editorGutter.modifiedBackground": "#3B79C7BB",
-			"editorGutter.addedBackground": "#45C758BB",
+			"editorGutter.modifiedBackground": "#5BC0EBBB",
+			"editorGutter.addedBackground": "#9BC53DBB",
 			"editorGutter.deletedBackground": "#FC644DBB",
-
-			"diffEditor.insertedTextBackground": "#A5F69C20",
-			"diffEditor.removedTextBackground": "#FC644D20",
+	
+			"diffEditor.insertedTextBackground": "#29BF1220",
+			"diffEditor.removedTextBackground": "#F21B3F20",
 
 			"editorWidget.background": "#20232A",
 			"editorSuggestWidget.background": "#20232A",
