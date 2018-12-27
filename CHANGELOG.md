@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.4] - 2018-12-26
+
+- Improve README.md
+
 ## [1.2.3] - 2018-12-19
 
 ### Patch
