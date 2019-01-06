@@ -86,7 +86,7 @@
 			"editorCodeLens.foreground": "#746f77",
 			"editorBracketMatch.background": "#746f77",
 			"editorBracketMatch.border": "#746f77",
-			"editorOverviewRuler.border": "#4F4355",
+			"editorOverviewRuler.border": "#1B1D23",
 			"editorError.foreground": "#FC644D",
 			"editorWarning.foreground": "#FF9F2E",
 			"editorGutter.modifiedBackground": "#5BC0EBBB",
@@ -120,6 +120,7 @@
 			"merge.incomingContentBackground": "#3B79C740",
 
 			"panel.background": "#23262E",
+			"panel.border": "#1B1D23",
 			"panelTitle.activeBorder": "#23262E",
 			"panelTitle.inactiveForeground": "#746f77",
 
