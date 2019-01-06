@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.2.5] - 2019-01-06
+
+- Darken border color of some widgets
+- Update scrollbar color
+
+
 ## [1.2.4] - 2018-12-26
 
 - Improve README.md
