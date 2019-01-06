@@ -25,9 +25,9 @@
         "inputValidation.warningBorder": "#DE9237",
 
         "scrollbar.shadow": "#23262E",
-        "scrollbarSlider.activeBackground": "#746f77CC",
-        "scrollbarSlider.background": "#746f7777",
-        "scrollbarSlider.hoverBackground": "#746f77AA",
+        "scrollbarSlider.activeBackground": "#3A3F4CCC",
+        "scrollbarSlider.background": "#3A3F4C77",
+        "scrollbarSlider.hoverBackground": "#3A3F4CAA",
 
         "badge.background": "#00b0ff",
 
