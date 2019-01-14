@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.3.0] - 2019-01-14
+
+- Add bordered version
+
 ## [1.2.5] - 2019-01-06
 
 - Darken border color of some widgets
