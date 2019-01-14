@@ -31,6 +31,16 @@
                 "path": "./themes/Andromeda-color-theme.json"
             },
             {
+                "label": "Andromeda Bordered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Andromeda-color-theme-bordered.json"
+            },
+            {
+                "label": "Andromeda Italic Bordered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Andromeda-italic-color-theme-bordered.json"
+            },
+            {
                 "label": "Andromeda Italic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Andromeda-italic-color-theme.json"
