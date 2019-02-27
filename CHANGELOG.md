@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.3.1] - 2019-02-27
+
+- Update active tab background color in bordered version
+- Update downloads badge
+
 ## [1.3.0] - 2019-01-14
 
 - Add bordered version
