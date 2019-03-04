@@ -63,7 +63,8 @@
                 "constant.other.caps.python",
                 "entity.other.attribute-name",
                 "support.type.exception.python",
-                "source.css keyword.other.unit"
+                "source.css keyword.other.unit",
+                "variable.other.object.property.js.jsx", "variable.other.object.js"
             ],
             "settings": {
                 "foreground": "#f39c12"
