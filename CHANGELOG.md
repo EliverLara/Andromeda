@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.4.0] - 2019-03-04
+
+- Tweaks in js syntax highlighting
+
 ## [1.3.1] - 2019-02-27
 
 - Update active tab background color in bordered version
