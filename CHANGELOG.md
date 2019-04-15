@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.4.1] - 2019-04-15
+
+- Update indent guide color
+
 ## [1.4.0] - 2019-03-04
 
 - Tweaks in js syntax highlighting
