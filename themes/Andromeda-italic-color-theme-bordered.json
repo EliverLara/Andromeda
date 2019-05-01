@@ -55,7 +55,6 @@
 			"sideBar.foreground": "#746f77",
 			"sideBar.border": "#1B1D23",
 
-
 			"editorGroup.background": "#23262E",
 			"editorGroup.dropBackground": "#495061d7",
 			"editorGroupHeader.tabsBackground": "#23262E",
@@ -63,9 +62,6 @@
 			"tab.inactiveBackground": "#23262E",
 			"tab.activeForeground": "#00e8c6",
 			"tab.inactiveForeground": "#746f77",
-
-
-
 
 			"editor.background": "#262A33",
 			"editor.foreground": "#D5CED9",
