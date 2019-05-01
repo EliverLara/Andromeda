@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.4.2] - 2019-05-01
+
+- Refactoring theme
+
 ## [1.4.1] - 2019-04-15
 
 - Update indent guide color
