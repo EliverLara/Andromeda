@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.5.0] - 2019-08-21
+
+- Update focus border color
+- Update list colors
+
 ## [1.4.2] - 2019-05-01
 
 - Refactoring theme
