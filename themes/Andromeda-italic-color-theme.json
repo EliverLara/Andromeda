@@ -128,6 +128,21 @@
 			"statusBarItem.prominentBackground": "#07d4b5b0",
 			"statusBarItem.prominentHoverBackground": "#00e8c5cc",
 
+			"terminal.ansiRed":"#ee5d43",
+			"terminal.ansiGreen":"#96E072",
+			"terminal.ansiYellow":"#FFE66D",
+			"terminal.ansiBlue":"#7cb7ff",
+			"terminal.ansiMagenta":"#ff00aa",
+			"terminal.ansiCyan":"#00e8c6",
+			"terminal.ansiBrightRed":"#ee5d43",
+			"terminal.ansiBrightGreen":"#96E072",
+			"terminal.ansiBrightYellow":"#FFE66D",
+			"terminal.ansiBrightBlue":"#7cb7ff",
+			"terminal.ansiBrightMagenta":"#ff00aa",
+			"terminal.ansiBrightCyan":"#00e8c6",
+			"terminalCursor.background": "#23262E",
+			"terminalCursor.foreground": "#FFE66D",
+
 			"titleBar.activeBackground": "#23262E",
 
 			"notification.background": "#2d313b",
