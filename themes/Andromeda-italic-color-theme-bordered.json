@@ -30,6 +30,7 @@
 			"scrollbarSlider.hoverBackground": "#3A3F4CAA",
 
 			"badge.background": "#00b0ff",
+			"badge.foreground": "#20232B",
 
 			"progressBar.background": "#C668BA",
 
@@ -47,6 +48,7 @@
 			"activityBar.dropBackground": "#3a404e",
 			"activityBar.foreground": "#BAAFC0",
 			"activityBarBadge.background": "#00b0ff",
+			"activityBarBadge.foreground": "#20232B",
 			"activityBar.border": "#1B1D23",
 
 			"sideBar.background": "#23262E",
