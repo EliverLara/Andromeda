@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.6.1] - 2020-01-27
+
+- Improve badges legibility
+
 ## [1.6.0] - 2019-09-19
 
 - Add matching colors to integrated terminal
