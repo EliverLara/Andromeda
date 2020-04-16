@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.7.0] - 2020-04-16
+
+- Add highlight to active indent guide
+- Update badges url
+
 ## [1.6.1] - 2020-01-27
 
 - Improve badges legibility
