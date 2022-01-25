@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.8.0] - 2022-01-25
+
+- Added colorizer variant with italic keywords
+
 ## [1.7.0] - 2020-04-16
 
 - Add highlight to active indent guide

@@ -2,7 +2,7 @@
     "name": "andromeda",
     "displayName": "Andromeda",
     "description": "Dark theme with a taste of the universe",
-    "version": "1.7.0",
+    "version": "1.8.0",
     "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#23262E",
@@ -49,6 +49,11 @@
                 "label": "Andromeda Colorizer",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Andromeda-colorizer.json"
+            },
+            {
+                "label": "Andromeda Colorizer Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Andromeda-italic-colorizer.json"
             }
         ]
     }
