@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.7.1] - 2022-05-16
+
+- Improve selection background color 
+
 ## [1.7.0] - 2020-04-16
 
 - Add highlight to active indent guide
