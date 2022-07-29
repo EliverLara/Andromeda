@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.8.0] - 2022-07-29
+
+- Added colorizer variant with italic keywords
+
 ## [1.7.1] - 2022-05-16
 
 - Improve selection background color 
