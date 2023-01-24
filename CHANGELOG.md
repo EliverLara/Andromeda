@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.7.2] - 2023-01-24
+
+- Improve contrast in side bar colors
+
 ## [1.7.1] - 2022-05-16
 
 - Improve selection background color 
