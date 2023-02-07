@@ -54,7 +54,7 @@
         "sideBar.background": "#23262E",
         "sideBarSectionHeader.background": "#23262E",
         "sideBarTitle.foreground": "#00e8c6",
-        "sideBar.foreground": "#746f77",
+        "sideBar.foreground": "#999999",
         "sideBar.border": "#1B1D23",
         
         "editorGroup.background": "#23262E",
@@ -165,7 +165,10 @@
 
         "debugToolBar.background": "#20232A",
 
-        "walkThrough.embeddedEditorBackground": "#23262E"
+        "walkThrough.embeddedEditorBackground": "#23262E",
+
+        "gitDecoration.ignoredResourceForeground": "#555555"
+
     },
     "tokenColors": [
         {
