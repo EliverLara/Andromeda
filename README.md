@@ -11,6 +11,9 @@
 
 > **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Catograph Mono
 
+## VSCodium
+*If using vscodium and Andromeda is not available as an extension see VSCodium.md*
+
 ## License
 
 [MIT](https://github.com/EliverLara/Andromeda/blob/master/LICENSE.md)
