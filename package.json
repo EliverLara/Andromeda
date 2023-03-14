@@ -17,6 +17,9 @@
     "repository": {
         "url": "https://github.com/EliverLara/Andromeda"
     },
+    "sponsor": {
+        "url": "https://github.com/sponsors/EliverLara"
+    },
     "engines": {
         "vscode": "^1.14.0"
     },
