@@ -107,6 +107,10 @@
         "debugExceptionWidget.background": "#FF9F2E60",
         "debugExceptionWidget.border": "#FF9F2E60",
 
+        "minimapSlider.background": "#58607460",
+        "minimapSlider.hoverBackground": "#60698060",
+        "minimapSlider.activeBackground": "#60698060",
+
         "peekView.border": "#23262E",
         "peekViewEditor.background": "#1A1C22",
         "peekViewEditor.matchHighlightBackground": "#FF9F2E60",
