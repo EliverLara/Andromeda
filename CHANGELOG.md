@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.8.1] - 2023-04-13
+
+- Improve minimap visiblility
+
 ## [1.8.0] - 2023-03-15
 
 - Improve search matches appearance to improve comments readability
