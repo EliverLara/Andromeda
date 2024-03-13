@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.8.2] - 2024-03-12
+
+- Improve current tab highlightning
+
 ## [1.8.1] - 2023-04-13
 
 - Improve minimap visiblility
