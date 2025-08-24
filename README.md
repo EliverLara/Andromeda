@@ -6,9 +6,10 @@
 # Andromeda Theme for VS Code
   
 [![release](https://img.shields.io/github/release/EliverLara/Andromeda.svg?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6)](https://github.com/EliverLara/Andromeda/releases/latest)
-[![vscode](https://img.shields.io/badge/VS_Code-v1.26+-373277.svg?style=for-the-badge&logo=microsoft&logoColor=white&colorA=2b303b&colorB=7cb7ff)](https://code.visualstudio.com/updates/v1_26)
 [![downloads](https://img.shields.io/visual-studio-marketplace/d/EliverLara.andromeda?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072)](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
 [![rating](https://img.shields.io/visual-studio-marketplace/stars/EliverLara.andromeda?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
+[![paypal](https://img.shields.io/badge/PayPal-7cb7ff?style=for-the-badge&logo=paypal&labelColor=2b303b&label=support%20on)](https://www.paypal.com/paypalme/EliverLara/)
+[![kofi](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%234D798C?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/eliverlara)
 
 </div>
 
