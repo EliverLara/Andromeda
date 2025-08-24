@@ -378,5 +378,9 @@
 							"fontStyle": "italic"
 					}
 			}
-	]
+	],
+	"semanticTokenColors": {
+		"property.declaration:javascript": "#D5CED9",
+		"variable.defaultLibrary:javascript": "#f39c12"
+	}
 }
