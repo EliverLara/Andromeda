@@ -15,7 +15,7 @@
 
 ![andromeda-theme-options](images/theme-options.png)
 
-> **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Catograph Mono
+> **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Cartograph Mono
 
 ## Easy Installation
 
