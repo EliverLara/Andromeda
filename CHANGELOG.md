@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.9.0] - 2025-08-24
+
+- Add js rules when using semantic highlighting
+- Fix typo
+- Added support badges
+
 ## [1.8.2] - 2024-03-12
 
 - Improve current tab highlightning
