@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.10.0] - 2026-01-09
+
+- Improve CMake syntax highlighting
+
 ## [1.9.0] - 2025-08-24
 
 - Add js rules when using semantic highlighting
