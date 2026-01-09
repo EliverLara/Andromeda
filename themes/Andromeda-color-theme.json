@@ -200,7 +200,8 @@
                 "constant.name.attribute.tag.jade",
                 "punctuation.definition.metadata.markdown",
                 "punctuation.definition.string.end.markdown",
-                "punctuation.definition.string.begin.markdown"
+                "punctuation.definition.string.begin.markdown",
+                "string.unquoted.cmake"
             ],
             "settings": {
                 "foreground": "#D5CED9"
@@ -301,7 +302,8 @@
                 "meta.link",
                 "meta.image",
                 "markup.italic",
-                "source.js support.type"
+                "source.js support.type",
+                "support.type"
                 
             ],
             "settings": {
